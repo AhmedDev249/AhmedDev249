@@ -25,11 +25,8 @@
   <!-- Core Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
 ---
@@ -49,7 +46,6 @@
 
 ## 🌟 Featured Projects
 
-🔹 **[API Boilerplate (FastAPI + PostgreSQL)](https://github.com/yourusername/fastapi-boilerplate)** – Starter template for scalable APIs  
 🔹 **[Django E-commerce Platform](https://github.com/yourusername/django-ecommerce)** – Full-featured online shop with authentication & payments  
 🔹 **[Task Manager API](https://github.com/yourusername/task-manager-api)** – REST API for managing tasks and users  
 
