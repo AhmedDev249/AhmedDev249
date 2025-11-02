@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Esam+Aldeen;Backend+Developer;Django+%7C+FastAPI+%7C+Python+Expert;Building+Scalable+APIs+%26+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I%27m+Ahmed+Essam+Eldin;Backend+Developer;Django+%7C+Flask+%7C+Python+Expert;BBuilding+Scalable+APIs+%26+Systems" alt="Typing SVG" />
 </h1>
 
 <!-- Cool Banner -->
@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-🔹 Passionate **Backend Developer** specialized in **Django (Python)** & **FastAPI**  
-🔹 Skilled in designing **robust APIs**, **database management**, and **system architecture**  
+🔹 Passionate **Backend Developer** specialized in **Django (Python)** & **Flask**  
+🔹 Skilled in designing **robust APIs**, **system design**, and **system architecture**  
 🔹 Focused on building **scalable, secure, and high-performance applications**  
 🔹 Always exploring **modern backend practices** and contributing to open-source projects  
 
@@ -34,19 +34,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedEsamAldeen&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedEsamAldeen&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedDev249&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedDev249&theme=radical&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedEsamAldeen&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedDev249&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-🔹 **[Django E-commerce Platform](https://github.com/yourusername/django-ecommerce)** – Full-featured online shop with authentication & payments  
+🔹 **[Django E-commerce Platform](https://github.com/yourusername/django-ecommerce)** 
 🔹 **[Task Manager API](https://github.com/yourusername/task-manager-api)** – REST API for managing tasks and users  
 
 ---
@@ -54,9 +54,9 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahmed-esam-aldeen" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Esam%20Aldeen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ahmed.esam@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AhmedEsamAldeen"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-essam-7a685838b/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Esam%20Aldeen-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ahmedesamaldeen10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AhmedDev249"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
